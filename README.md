@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
@@ -48,15 +48,15 @@
 
 ## 📬 Contacts
 
-<p align="center">
+<div align="center">
   <a href="https://vk.com/raul.musaev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vk.svg" width="32" height="32" alt="VK"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="32" alt="VK"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:raul.musayev.0505@mail.ru">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="32" height="32" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/000000/new-post.png" width="32" alt="Email"/>
   </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RaulStorm&style=flat-square" alt="Profile views"/>
