@@ -18,7 +18,7 @@
 
 - 🏆 Certified Java Developer (TOP Academy Graduate)
 - 🛠️ Backend: Java, Spring Boot, C#, .NET, REST API, databases
-- 🗄️ Experience with PostgreSQL, MySQL, MS SQL,
+- 🗄️ Experience with PostgreSQL, MySQL, MS SQL
 - ⚡ I love optimization, architecture, automation, and modern approaches
 - 🌱 Always learning new technologies and sharing knowledge
 
